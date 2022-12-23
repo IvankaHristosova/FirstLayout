@@ -1,0 +1,38 @@
+
+body {
+    background-color: #f3f3f3;
+}
+.my-heading {
+    padding: 1.25rem;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.main-section-container {
+    border: 1px solid #e7e7e7;
+    border-radius: 1rem;
+    padding: 1rem;
+    background: white;
+    box-shadow: -1px 6px 18px -11px rgba(0,0,0,0.75);
+}
+
+.right_btn__container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.background__purple {
+    background-color: #e4b4ff;
+}
+
+.background__blue {
+    background-color: #b4cbff;
+}
+
+.background__green {
+    background-color: #a1dcaf;
+}
+
+.rounded_footer__container {
+    border-radius: 1rem;
+}
