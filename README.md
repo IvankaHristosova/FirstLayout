@@ -1,0 +1,1 @@
+This is Ivanka Hristosova's first Git project. 
